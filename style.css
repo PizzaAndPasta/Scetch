@@ -1,0 +1,47 @@
+body {
+    background-color: #3b4252;
+}
+
+#container {
+    
+    margin-top: 20px;
+}
+.cell {
+    border: 1px solid gray;
+    min-width: 20px;
+    min-height: 20px;
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.cellHover {
+    background-color: black;
+}
+
+#resetButton{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    color: cornsilk;
+}
+#go {
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    background-color: #434c5e;
+    border-color: #4c566a;
+    border-radius: 10px;
+    font-size: large;
+    color: #eceff4;
+}
+
+#resetButton {
+    height: 50px;
+    width: 70px;
+    margin: 5px;
+    background-color: #434c5e;
+    border-color: #4c566a;
+    border-radius: 10px;
+    font-size: large;
+    color: #eceff4;
+}
